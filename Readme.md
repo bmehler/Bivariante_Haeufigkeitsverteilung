@@ -1,4 +1,4 @@
-# Bivariante Analyse am Beispiel von Online Apotheken
+# Multivariante Analyse am Beispiel von Online Apotheken
 ### Für 5 Online Apotheken wird der Umsatz und die Kundenzufriedenheit untersucht.
 #### Frage: Steigt der Umsatz bei einer höheren Kundenzufriedenheit?
 
